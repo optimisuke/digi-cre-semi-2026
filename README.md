@@ -51,7 +51,7 @@
 
 `01-app/index.html` 内の `<section class="slide">` が1ページです。セクションを追加・削除すると、ページ数と選択メニューが自動で更新されます。各ページの見出しIDと `aria-labelledby` は一致させ、IDが重複しないようにしてください。CSSとJavaScriptも同じファイルにまとめています。
 
-デザインは [Good Job! Center](https://goodjobcenter.com/) の生成り色（`#FCF7F3`）と黒を基調にした配色を参考に、余白・大きな見出し・幾何学図形で構成しました。サイトのロゴや写真は使用していません。
+デザインは [Good Job! Center](https://goodjobcenter.com/) の生成り色（`#FCF7F3`）、左メニューのグレー（`#EFEBE7`）、黒を基調にした配色を参考に、余白・大きな見出し・幾何学図形で構成しました。サイトのロゴや写真は使用していません。
 
 ## フォルダ構成
 
