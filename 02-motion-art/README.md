@@ -33,6 +33,9 @@
 
 ## 画像・参考資料
 
+- `assets/illustrations/*.svg`：各ページの内容に合わせたオリジナルの線画イラスト
+- 28ページ目は、動く作品の制作・自分好みの改良・作品共有を振り返る「今日のまとめ」です。
+
 - `assets/own-image-example.png`：講師提供の画像添付・作品への反映例
 - `assets/share-button.png` / `assets/share-settings.png`：講師提供の共有手順キャプチャ
 - `assets/fish-sample.png` / `assets/cat-sample.png`：講師提供の作品サンプル
